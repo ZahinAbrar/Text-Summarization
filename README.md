@@ -1,5 +1,10 @@
 # 🧠 Text Summarizer API
 
+![FastAPI](https://img.shields.io/badge/framework-FastAPI-green)
+![Docker](https://img.shields.io/badge/container-docker-blue)
+![Kubernetes](https://img.shields.io/badge/deployment-kubernetes-success)
+![Transformers](https://img.shields.io/badge/model-HuggingFace-orange)
+
 This project demonstrates how to:
 - Load a Hugging Face summarization model
 - Serve it via a FastAPI REST API
